@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "csv-stringify": "^6.2.3",
+    "wkt": "^0.1.1"
+  }
+}
